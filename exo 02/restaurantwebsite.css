@@ -1,0 +1,35 @@
+body{
+    background-image: url(001.jfif);
+    height: 100vh;
+   
+    background-position: right;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin:0 auto;}
+nav a{ text-decoration: none;
+        color: blue;
+        margin: 50px;
+        font-size: 1.2em;}
+ #divvv{
+    opacity: 0.70;
+    background-color: rgb(162, 158, 185);
+           border: solid 2px red;
+            width: 30%;
+            height: 100vh;font-size : initial ; 
+        }
+.id2{
+       
+        font-size: 20px;
+        }
+ .bout{
+     background-color: orange;
+border: solid 2px  orangered;
+border-radius: 5px;
+
+margin: 30%;
+
+        }
